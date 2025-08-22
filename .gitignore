@@ -39,3 +39,5 @@ docs/.DS_Store
 /docs/_build/
 /.pytest_cache/
 /logai/.idea/
+
+data/

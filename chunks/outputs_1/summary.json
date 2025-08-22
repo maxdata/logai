@@ -1,0 +1,33 @@
+{
+  "input_log": "/Users/mhuang/Documents/GitHub/logai/data/04753a5e-c93b-4c82-869f-c8e01d50fce3.log.txt",
+  "total_lines": 979,
+  "parsed_rows": 979,
+  "unique_patterns": 371,
+  "top_patterns": {
+    "/usr/bin/mkdir -p *": 77,
+    "config.status: creating *": 50,
+    "* Leaving directory *": 45,
+    "* Entering directory *": 45,
+    "/usr/bin/install -c -m 644 * *": 40,
+    "checking if $BUILD_PREFIX/bin/x86_64-conda-linux-gnu-cc supports * *": 35,
+    "No message available": 34,
+    "* Nothing to be done for *": 30,
+    "* (text): Patching": 23,
+    "checking for * *": 22,
+    "Removing file *": 19,
+    "/usr/bin/install -c -m 644 * * '$PREFIX/include/X11/extensions'": 12,
+    "Making all in *": 9,
+    "Making check in *": 9,
+    "Making install in *": 9,
+    "Uploading * to staging-channel-dev as *": 8,
+    "- *": 8,
+    "Task 'case(True)': Finished task run for task with final state: *": 7,
+    "Task 'case(True)': Starting task run...": 7,
+    "Task 'create_subdirectory': Finished task run for task with final state: 'Success'": 5,
+    "Check if the build is new": 5,
+    "Created directory *": 5,
+    "export *": 5,
+    "Task 'create_subdirectory': Starting task run...": 5,
+    "Request response code for github_status returned 201": 5
+  }
+}
