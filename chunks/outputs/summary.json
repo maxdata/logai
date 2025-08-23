@@ -1,0 +1,7 @@
+{
+  "input_log": "data/test1.log.txt",
+  "total_lines": 5567,
+  "parsed_rows": 0,
+  "unique_patterns": 0,
+  "top_patterns": {}
+}
